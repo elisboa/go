@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 
-	fmt.Println("Integer overflow using a for loop")
+	fmt.Println("8-bit signed integer overflow using a 'for' loop, from 0 to 129")
 
     // integer overflow test
     var myint int8
